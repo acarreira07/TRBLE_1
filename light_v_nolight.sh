@@ -9,4 +9,4 @@
 #SBATCH --mail-type=ALL
 
 ml R
-R -u /home/users/arnaldo/TRBLE_1/treble_larvae_behavior_walkthrough_mz1407.R 
+R -u /home/users/arnaldo/TRBLE_1/treble_larvae_behavior_walkthrough_mz1407.R --save
